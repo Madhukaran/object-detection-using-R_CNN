@@ -1,6 +1,6 @@
 # object-detection-using-R_CNN
 
-The project is based on object detecion using the TENSORFLOW library ,OPENCV used for the detection of the various objects by the pretrained models.The process on the neural network is enhanced and imporved using the CLUSTERING thechnique thus it can analyze and detect the objects with high rate and high accuracy.
+The project is based on object detecion using the TENSORFLOW library ,OPENCV used for the detection of the various objects by the pretrained models.The process on the neural network is enhanced and imporved using the CLUSTERING thechnique thus it can analyze and detect the objects with high rate and high accuracy
     * Latency is improved
     * Image stablization is improved
     * made the algorith work with MULTIPLE CAMERA'S on live stream
